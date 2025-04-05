@@ -19,14 +19,15 @@ The dataset consists of **32,561 rows** and **15 columns**. The columns represen
 - `capital-loss`
 - `hours-per-week`
 - `native-country`
-- `salary`
+- `salary
+`
 The project uses **Pandas** for data manipulation and analysis, and it's designed to answer several questions related to the data provided.
 
 ## Project Overview
 
 The dataset contains information about adults from the U.S. Census, with attributes like age, race, education level, marital status, occupation, and salary.
 
-### Key Questions to Analyze:
+### Key Questions Analyzed:
 1. How many people of each race are represented in this dataset?
 2. What is the average age of men in the dataset?
 3. What percentage of people have a Bachelor's degree?
